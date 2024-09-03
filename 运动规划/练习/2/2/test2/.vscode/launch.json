@@ -1,0 +1,24 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "ROS: Launch",
+            "request": "launch",
+            "target": "/home/chen/planing_uav/ROS/2/test2/src/grid_path_searcher/launch/demo.launch",
+            // "target": "/home/jetson/uav1_ws/Fast-Drone-250/src/planner/plan_manage/launch/single_run_in_exp.launch",
+
+            "type": "ros"
+        }
+    ]
+}
+
+/*            "launch": [
+                "rviz",
+                "gz",
+                "gzclient",
+                "gzserver"
+            ],*/
