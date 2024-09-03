@@ -1,2 +1,0 @@
-grid_path_searcher:rviz_plugins:waypoint_generator
--DCATKIN_DEVEL_PREFIX=/home/chen/planing_uav/ROS/2/hw2/devel -DCMAKE_INSTALL_PREFIX=/home/chen/planing_uav/ROS/2/hw2/install -G Unix Makefiles

@@ -1,8 +1,0 @@
-prefix=/home/chen/planing_uav/ROS/2/test2/devel
-
-Name: grid_path_searcher
-Description: Description of grid_path_searcher
-Version: 0.0.1
-Cflags: -I/home/chen/planing_uav/ROS/2/test2/src/grid_path_searcher/include
-Libs: -L${prefix}/lib 
-Requires: 
